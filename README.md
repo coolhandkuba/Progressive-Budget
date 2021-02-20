@@ -1,4 +1,4 @@
-# Progressive-Budget# Unit 18 PWA Homework: Online/Offline Budget Trackers
+# Progressive-Budget
 
 * Using a previously created Budget Tracker application, a user is able to update information while online/offline. Updated application has offline access and functionality.
 
@@ -21,8 +21,9 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 * Offline image:
 
-
+    ![Offline](public/assets/img/offline.PNG)
 
 * Online image:
 
+    ![Online](public/assets/img/online.PNG)
 
