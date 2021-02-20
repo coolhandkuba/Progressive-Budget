@@ -21,8 +21,8 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 * Offline image:
 
-![Offline](https://github.com/Jupton2020/PWA-Budget-Tracker/blob/master/public/assets/img/offline.png)
+
 
 * Online image:
 
-![Online](https://github.com/Jupton2020/PWA-Budget-Tracker/blob/master/public/assets/img/online.png)
+
